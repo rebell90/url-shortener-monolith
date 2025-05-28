@@ -1,5 +1,3 @@
-<pre>
-````markdown
 # 📦 URL Shortener (Monolith Version)
 
 A simple, containerized URL shortener built with **FastAPI**, **PostgreSQL**, and **Redis**.
@@ -94,5 +92,4 @@ Returns:
 ⸻
 
 👤 Author: Developed by Rebecca Heldt (Rebecca Bell)
-````
-</pre>
+
